@@ -1,0 +1,35 @@
+.calc-row {
+    height: 100vh;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.input-window {
+    text-align: end;
+    font-size: x-large;
+}
+
+.row > input {
+	background-color:darkgrey;
+	color:honeydew;
+}
+
+.card-body {
+	background-color:khaki;
+}
+
+.col> button {
+	background-color:lightskyblue;
+	color: black;
+}
+
+.col {
+	margin: 5px;
+}
+
+.buttonC > button {
+	background-color:bisque;
+}
+
+input {
+	margin: 5px;
+}
